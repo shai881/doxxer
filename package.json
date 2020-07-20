@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "neo4j-driver": "^1.7.6",
     "parse-neo4j": "^0.6.11"
   }
